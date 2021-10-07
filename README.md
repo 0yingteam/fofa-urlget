@@ -2,6 +2,20 @@
 
 # Fofa-geturl
 
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+
+</p>
+
 **fofa-geturl使用最为快捷的语言python开发，此工具自2020年1月公开于影子team团队供内部人员使用，经过多次实战直**
 
 **播，fofa-geturl的思想逐渐显现，期间，我们看到很多类似的项目，从爬虫爬取的，到后来的gui界面，它们当然很棒，但**
@@ -24,20 +38,6 @@ qq群：1081724890
 知识星球：影子team
 blibli：影子team
 ```
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
-
-</p>
 
 ## 目录
 
@@ -79,29 +79,19 @@ blibli：影子team
 ###### *安装步骤**
 
 ```sh
-git clone https://github.com/0yingteam/testwyc.git
+git clone https://github.com/0yingteam/fofa-urlget.git
 ```
 
 ### 文件目录说明
 
 ```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+.
+└── fofa
+    ├── fafo.py
+    ├── host.txt
+    └── ip.txt
 
+1 directory, 3 files
 ```
 
 
